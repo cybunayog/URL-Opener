@@ -1,3 +1,4 @@
+#Made by Cy Bunayog
 #I'm not even sure if OS is neccessary to import
 import webbrowser, os
 
